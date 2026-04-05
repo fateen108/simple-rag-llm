@@ -1,4 +1,4 @@
-Simple Retrieval-Augmented Generation (RAG)
+Aircraft Maintenance Document Q&A Assistant (RAG + FAISS + Transformers)
 
 This project implements a basic Retrieval-Augmented Generation (RAG) pipeline using semantic embeddings and a language model.
 
