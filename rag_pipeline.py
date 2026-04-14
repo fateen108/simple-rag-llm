@@ -38,4 +38,4 @@ def search(query, k=2):
     return [documents[i] for i in indices[0]]
 
 results = search("How does laminar flow improve efficiency?")
-print(results)
+print("file is running")
